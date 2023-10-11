@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games 
 - 🌱 I’m currently learning computer science engineering 
 - 💞️ I’m looking to collaborate on Google 
-- 📫 How to reach me via mail 
+- 📫 How to reach me via mail -> tomojitduttaxb@gmail.com
 
 <!---
 Tomojit04/Tomojit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
